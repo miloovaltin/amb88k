@@ -1,0 +1,16 @@
+{
+"name": "amb88k",
+"theme": "amb88k",
+"version": "5.4.8",
+"description": "amb88k สมัครเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ รับเครดิตฟรี",
+"keywords": [
+"amb88k",
+"amb88k เครดิตฟรี",
+"amb88k ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/amb88k",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
